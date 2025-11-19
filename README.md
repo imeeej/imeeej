@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/R studio-276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/C -A8B9CC?style=for-the-badge&logo=c%20query&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/C language -A8B9CC?style=for-the-badge&logo=c%20query&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
 </div>
 
