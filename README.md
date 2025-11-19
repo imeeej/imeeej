@@ -17,7 +17,12 @@ Here are some ideas to get you started:
 -----------------
 <img src="https://img.shields.io/badge/major-FF9699.svg?style=for-the-badge&logo=theirishtimes&logoColor=000000" />
 --
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?imeeej=anuraghazra&show_icons=true&theme=radical)
+<h3 align="center">✨ Tech Stack ✨</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+</div>
 
 
 
