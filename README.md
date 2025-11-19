@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 --> 
 ![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=introduction%20&fontSize=90)
 -----------------
-<img src="https://img.shields.io/badge/react-FF9699.svg?style=for-the-badge&logo=theirishtimes&logoColor=000000" />
+<img src="https://img.shields.io/badge/major-FF9699.svg?style=for-the-badge&logo=theirishtimes&logoColor=000000" />
 
