@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=instroduction%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=introduction%20&fontSize=90)
 -----------------
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=IT&logoColor=000000" />
