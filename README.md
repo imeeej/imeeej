@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 -----------------
 <img src="https://img.shields.io/badge/major-FF9699.svg?style=for-the-badge&logo=theirishtimes&logoColor=000000" />
 --
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
 
