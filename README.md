@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 ![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=Hello%20Welcome!&fontSize=90)
+<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
