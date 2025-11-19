@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=introduction%20&fontSize=90)
 -----------------
 <img src="https://img.shields.io/badge/major-FF9699.svg?style=for-the-badge&logo=theirishtimes&logoColor=000000" />
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
